@@ -51,9 +51,9 @@ Key insights derived from exploratory queries:
 
 ## 📂 Files Included
 
-- `layoffs_project.sql` — full SQL file with all queries
+- `Practice SQL Project - World Layoffs Cleaning` — full SQL file with all queries
 - `layoffs.csv` — raw dataset
-- `exploratory_notes.txt` — notes on exploratory analysis
+- `Practice SQL Project - World Layoffs Exploratory` — notes on exploratory analysis
 
 ## 📺 Credits
 
